@@ -19,7 +19,17 @@ Types of Binary Tree
 • Perfect Binary Tree - A perfect binary tree is a type of binary tree in which every internal node has exactly two child nodes and all the leaf nodes tare at the same level.
 • Complete Binary Tree - A complete binary tree is just like a full binary tree, but with two major differences
 Every level must be completely filled, All the leaf elements must lean towards the left. The last leaf element might not have a right sibling i.e. a complete binary tree doesn't have to be a full binary tree.
-• Degenerate / Skewed Binary Tree
+• Degenerate / Skewed Binary Tree - all nodes go only in one direction, like a straight line.
+It looks more like a linked list than a normal tree.
 • Balanced Binary Tree - It is a type of binary tree in which the difference between the height of the left and the right subtree for each node is either 0 or 1.
 '''
+
+'''
+Types of Traversal - 
+Pre Order Traversal
+Post Order Traversal
+In Order Traversal
+Level Order Traversal
+'''
+
         
